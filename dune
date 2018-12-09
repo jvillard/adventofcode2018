@@ -1,0 +1,7 @@
+(executables
+  (names  freq box_ids suit_3 guards_4)
+  (libraries core)
+  (preprocess (pps ppx_jane))
+  (flags -w -9)
+)
+
