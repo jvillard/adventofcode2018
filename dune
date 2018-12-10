@@ -1,5 +1,5 @@
 (executables
-  (names  freq box_ids suit_3 guards_4)
+  (names  freq box_ids suit_3 guards_4 polymers_5 coord_6 schedule_7)
   (libraries core)
   (preprocess (pps ppx_jane))
   (flags -w -9)
